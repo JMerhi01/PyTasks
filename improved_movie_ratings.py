@@ -7,7 +7,7 @@ while not age.isdigit() or int(age) < 1 or int(age) > 117:
     age = input("Please input an age between 1 and 117: ")
 
 age = int(age)
-
+#
 if age < 12:
     print("You can only watch movies rated Universal")
 elif age < 15:
