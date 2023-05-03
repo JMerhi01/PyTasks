@@ -1,0 +1,2 @@
+# Exclude all things that end in .exclude
+*.exclude
